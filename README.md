@@ -1,4 +1,4 @@
-🔭 I’m currently working as a Freelance Full-Stack Engineer.
+🔭 I’m currently working as a Full-Stack Engineer.
 
 🌱 I’m currently learning ReactJS with Redux
 
