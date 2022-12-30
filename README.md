@@ -13,3 +13,8 @@
 📫 How to reach me mibtehajnasar@gmail.com
 
 📸 I do photography for fun @bunnyphotography_ on instagram!
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbtehajNasar&layout=compact" alt="M Ibtehaj Nasar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MIbtehajNasar&show_icons=true" alt="M Ibtehaj Nasar" /></p>
