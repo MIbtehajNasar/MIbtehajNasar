@@ -1,3 +1,8 @@
+<h1 align="center">M Ibtehaj Nasar</h1>
+<h3 align="center">Full-Stack Ruby on Rails Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MIbtehajNasar" alt="M Ibtehaj Nasar" /> </p>
+
 🔭 I’m currently working as a Full-Stack Engineer.
 
 🌱 I’m currently learning ReactJS with Redux
