@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Engineer.<br><br>🌱 I’m currently learning ReactJS with Redux<br><br>👯 I’m looking to collaborate on any Ruby on Rails / ReactJS / Machine Learning projects<br><br>🤝 I’m looking for help with getting remote job as a full-stack engineer.<br><br>👨‍💻 All of my projects are available at http://github.com/MIbtehajNasar and https://gitlab.com/mibtehajnasar<br><br>💬 Ask me about Ruby / Ruby on Rails<br><br>📫 How to reach me mibtehajnasar@gmail.com
+🔭 I’m currently working as a Full-Stack Engineer.<br><br>🌱 I’m currently learning ReactJS with Redux<br><br>👯 I’m looking to collaborate on any Ruby on Rails / ReactJS / NodeJS projects<br><br>🤝 I’m looking for help with getting remote job as a full-stack engineer.<br><br>👨‍💻 All of my projects are available at http://github.com/MIbtehajNasar and https://gitlab.com/mibtehajnasar<br><br>💬 Ask me about Ruby / Ruby on Rails<br><br>📫 How to reach me mibtehajnasar@gmail.com
 
 
 ## 🌐 Socials:
