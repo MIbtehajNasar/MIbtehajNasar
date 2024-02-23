@@ -13,9 +13,9 @@
 💬 Ask me about anything related to Ruby, Ruby on Rails, or JavaScript.
 
 📫 **Connect with me:**
-- Email: [your.email@example.com](mailto:mibtehajnasar@gmail.com)
+- Email: [mibtehajnasar@gmail.com](mailto:mibtehajnasar@gmail.com)
 - LinkedIn: [linkedin.com/in/mibtehajnasar](https://www.linkedin.com/in/mibtehajnasar/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/mibtehajnasar)
+- Twitter: [@mibtehajnasar](https://twitter.com/mibtehajnasar)
 
 Looking forward to connecting with fellow developers and exploring new opportunities! 🚀
 
