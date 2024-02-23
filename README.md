@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working as a Full-Stack Engineer.<br><br>🌱 I’m currently learning ReactJS with Redux<br><br>👯 I’m looking to collaborate on any Ruby on Rails / ReactJS / NodeJS projects<br><br>🤝 I’m looking for help with getting remote job as a full-stack engineer.<br><br>👨‍💻 All of my projects are available at http://github.com/MIbtehajNasar and https://gitlab.com/mibtehajnasar<br><br>💬 Ask me about Ruby / Ruby on Rails/ JavaScript<br><br>📫 How to reach me mibtehajnasar@gmail.com
+# Hi there! 👋 I'm M. Ibtehaj Nasar
+
+🔭 I’m currently working as a Full-Stack Engineer.
+
+🌱 I’m passionate about learning and currently diving into ReactJS with Redux.
+
+👯 I’m open to collaborating on exciting projects involving Ruby on Rails, ReactJS, or NodeJS.
+
+🤝 I'm actively seeking opportunities for a remote position as a Full-Stack Engineer.
+
+👨‍💻 Explore my projects on [GitHub](http://github.com/MIbtehajNasar) and [GitLab](https://gitlab.com/mibtehajnasar).
+
+💬 Ask me about anything related to Ruby, Ruby on Rails, or JavaScript.
+
+📫 **Connect with me:**
+- Email: [your.email@example.com](mailto:mibtehajnasar@gmail.com)
+- LinkedIn: [linkedin.com/in/mibtehajnasar](https://www.linkedin.com/in/mibtehajnasar/)
+- Twitter: [@yourtwitterhandle](https://twitter.com/mibtehajnasar)
+
+Looking forward to connecting with fellow developers and exploring new opportunities! 🚀
 
 
 ## 🌐 Socials:
