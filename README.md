@@ -2,7 +2,7 @@
 
 🔭 I’m currently working as a Full-Stack Engineer.
 
-🌱 I’m passionate about learning and currently diving into ReactJS with Redux.
+🌱 I’m passionate about learning and currently diving into NextJS.
 
 👯 I’m open to collaborating on exciting projects involving Ruby on Rails, ReactJS, or NodeJS.
 
@@ -28,6 +28,6 @@ Looking forward to connecting with fellow developers and exploring new opportuni
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mibtehajnasar&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MIbtehajNasar" alt="M Ibtehaj Nasar" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
