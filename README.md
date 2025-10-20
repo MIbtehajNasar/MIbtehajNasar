@@ -2,7 +2,7 @@
 
 🔭 I’m currently working as a Full-Stack Engineer.
 
-🌱 I’m passionate about learning and currently diving into NextJS.
+🌱 I’m passionate about learning and currently diving into AI.
 
 👯 I’m open to collaborating on exciting projects involving Ruby on Rails, ReactJS, or NodeJS.
 
